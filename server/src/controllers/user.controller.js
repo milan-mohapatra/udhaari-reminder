@@ -27,6 +27,10 @@ userController.deleteAUser = async (req, res, next) => {
     const userId = req.params.userId
 
     try {
+        if (req.user._id == userId) {
+          throw new CustomError("admin can't be deleted")
+        }
+
         const user = await User.findByIdAndDelete(userId)
 
         res.json({message: "user deleted successfully"})
