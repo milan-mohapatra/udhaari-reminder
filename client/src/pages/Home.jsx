@@ -133,7 +133,7 @@ const Home = () => {
       {state.isAuthenticated ? (
         <Button
           variant="contained"
-          sx={{ position: "absolute", marginX: "45%", marginY: "60%" }}
+          sx={{ position: "absolute", left: "20px", bottom: "20px" }}
           onClick={logout}
         >
           logout
