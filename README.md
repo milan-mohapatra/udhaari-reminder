@@ -18,16 +18,16 @@ This is the best tool to get your Udhaari mony back by sending them embarrassing
 6. The first user in this BD is admin and has dashboard access.
 
 ## USP: Funny emails
-![ss](https://i.ibb.co/jfC8nXB/ss.png)
+![ss](./client/src/assets/screenshots/ss.png)
 
 ### AUTH UI
-![auth ss](https://i.ibb.co/Bgt5Cpp/auth.png)
+![auth ss](./client/src/assets/screenshots/auth.png)
 
 ### HOME UI
-![home ss](https://i.ibb.co/jTJkG84/Udhaari-Reminder.png)
+![home ss](./client/src/assets/screenshots/home-ss.png)
 
 ### ADMIN DASHBOARD UI
-![admin ss](https://i.ibb.co/XFdLcqP/Udhaari-Reminder-1.png)
+![admin ss](./client/src/assets/screenshots/admin-dashboard.png)
 
 ## API DOC
 
